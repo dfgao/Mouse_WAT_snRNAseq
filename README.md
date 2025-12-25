@@ -1,1 +1,1 @@
-The snRNA-seq dataset analysis methods for article 
+The snRNA-seq dataset analysis methods for the article:Long-Term High-Protein Diet Intake Accelerates Adipocyte Senescence Through Macrophage CD38-Mediated NAD+ Depletion, doi:https://doi.org/10.1016/j.molmet.2025.102306
